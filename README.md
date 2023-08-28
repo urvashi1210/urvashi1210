@@ -1,7 +1,7 @@
 <p><img src="https://github.com/urvashi1210/urvashi1210/blob/main/github-header-image%20(4).png" width="1900"></p>
 
 <h1 align="center">Greetings, everyone 👋 I'm Urvashi Shukla.</h1>
-<h3 align="center">A B Tech-IT undergraduate and a committed Full-Stack Web Developer with the zeal to tackle new challenges through inventive solutions.</h3>
+<h3 align="center">A B.Tech - IT undergraduate and a committed Full-Stack Web Developer with the zeal to tackle new challenges through inventive solutions.</h3>
 
 <img align="right" src="https://github.com/urvashi1210/urvashi1210/blob/main/git1.gif" height="20%" width="20%" >
 
