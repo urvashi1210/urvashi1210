@@ -29,4 +29,4 @@
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=urvashi1210&&theme=react&show_icons=true&locale=en&layout=compact" alt="urvashi1210"/></p>
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=urvashi1210&&theme=react" alt="urvashi1210"/></p> -->
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urvashi1210&theme=react&show_icons=true)</p>
+<p align="center">![Urvashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=urvashi1210&theme=react&show_icons=true)</p>
