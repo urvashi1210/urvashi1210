@@ -20,8 +20,9 @@
 <br>
 <h3 align="center"><i>Connect with me : </i></h3>
 <p align="center">
-<a href="https://linkedin.com/in/urvashi-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urvashi-shukla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/urvashi1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="urvashi1210" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/urvashi_1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="urvashi_1210" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/urvashi-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urvashi-shukla" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="center"><i>Languages and Tools I have tried my hands on :</i></h3>
